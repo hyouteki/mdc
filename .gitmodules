@@ -1,0 +1,3 @@
+[submodule "voyage"]
+	path = voyage
+	url = https://github.com/hyouteki/voyage.git
